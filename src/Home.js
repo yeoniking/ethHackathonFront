@@ -9,7 +9,7 @@ function Home() {
       <div className="App">
       <NavBar />
       <Container className="d-flex justify-content-center mt-4">
-        <title>Home Page</title>
+        <title>Home Page!</title>
       </Container>
   </div>
     )
