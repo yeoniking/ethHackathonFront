@@ -7,8 +7,8 @@ import NavBar from './NavBar';
 function Proposal() {
     return(
         <div className="App">
+            <NavBar />
             <Container className="d-flex justify-content-center mt-4">
-                <NavBar />
             </Container>
         </div>
     )

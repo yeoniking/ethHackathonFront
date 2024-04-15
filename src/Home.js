@@ -7,11 +7,11 @@ import NavBar from './NavBar';
 function Home() {
     return (
       <div className="App">
-        <title>Home page</title>
-        <Container className="d-flex justify-content-center mt-4">
-            <NavBar />
-        </Container>
-      </div>
+      <NavBar />
+      <Container className="d-flex justify-content-center mt-4">
+        <title>Home Page</title>
+      </Container>
+  </div>
     )
 }
 
